@@ -1003,19 +1003,6 @@ a {
   font-size: 0.9rem;
   margin-right: 5px;
 }
-@media (max-width: 991px) {
-  .cid-rVs1KGgY6Y .img-wrap {
-    display: none;
-  }
-}
-@media (max-width: 768px) {
-  .cid-rVs1KGgY6Y {
-    padding: 30px;
-  }
-  .cid-rVs1KGgY6Y svg {
-    display: none;
-  }
-}
 .cid-rVs1KWs4Qc {
   padding-top: 90px;
   padding-bottom: 90px;

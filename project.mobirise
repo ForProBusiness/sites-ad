@@ -550,17 +550,6 @@
                 "font-size": "0.9rem",
                 "margin-right": "5px"
               }
-            },
-            "@media (max-width: 991px)": {
-              ".img-wrap": {
-                "display": "none"
-              }
-            },
-            "@media (max-width: 768px)": {
-              "svg": {
-                "display": "none"
-              },
-              "padding": "30px"
             }
           },
           "_name": "header04",
@@ -572,7 +561,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,

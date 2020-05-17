@@ -969,10 +969,14 @@ a {
   }
 }
 .cid-rVs1KGgY6Y {
-  padding-top: 180px;
+  padding-top: 120px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/background5.jpg");
   overflow: hidden;
+}
+.cid-rVs1KGgY6Y .row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 .cid-rVs1KGgY6Y svg {
   fill: #f9fafb !important;
